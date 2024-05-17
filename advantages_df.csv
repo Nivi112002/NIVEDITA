@@ -1,0 +1,17 @@
+,climate models,Advantages1,Advantages2
+1,CLIMLAB,Flexible and reproductibility of workflow,Helps hierarchial and process oriented approach
+2,CMIP5,Reliable ,"Identifying and understanding the discrepancies between modelled trends and observed trends, particularly when factoring out the global mean climate response"
+3,CFSv2,Increases the predictive skill ,"Provides useful information in identifying several major drought events, especially over tropical regions"
+4,SYMPL CLIMT,Designed to use expressive data structures ,Easy and reliable to combine model components 
+5,CCSM3,Model produces realistic simulations of the larger-scale features of the modern climate,resonable representation of leading modes of internal climate variability
+6,CGCM3.1 (T47) ,It has a surface grid with 3.75-degree grid cell size for atmospheric horizontal resolution and 1.85-degree resolution for the oceanic component,It reproduces large scale circulation 
+7,CGCM3.1 (T63) ,Model provides slightly better resolution of zonal currents in the Tropics,reduces problems with converging meridians in the Arctic
+8,CNRM-CM3 ,Reproduces large scale circulation ,
+9,CSIRO-MK3.0 ,Improved representation of radiative transfer in the shortwave,improved representation of surface albedo and improved representation of the middle-atmosphere as part of the standard model
+10,ECHAM5/MPI-OM ,improved representation of radiative transfer in the shortwave,New description of aerosols
+11, ECHO-G ,cooling trend from 100 to 1700,Higher rate of warming 
+12,FGOALS-g1.0 ,Focuses on East Asia's moonsoon system,Used to investigate the warm PE climate
+13,MRI-CGCM2.3.2 ,Exhibits better agreement with observations in present day climate simulations,"It includes global energy budget,meridional distributions and geographical distribution of surface air temperature and preipitation"
+14, PCM ,Stores and releases thermal energy during phase transitions,Enhances thermal performance 
+15,UKMO-HadCM3 ,Better functionality,Well-resolved stratosphere and earth system components 
+16,UKMO-HadGEM ,Represents secong generation of HadGEM configurations,More regional detail with higher atmosphere and ocean resolution 
